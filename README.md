@@ -1,5 +1,10 @@
 # Task Management System
 
+Watch the project demo here: https://github.com/user-attachments/assets/458c5efc-fdf0-4a71-9aa3-65df61e2f205
+
+Group Mmebers:
+- Aila Fernandez Soriano
+
 A full-stack Task Management application built with a **Flutter** frontend and a **Node.js/Express** backend, using **MongoDB** for data persistence. This project demonstrates a modern client-server architecture with RESTful API integration.
 
 ## 🚀 Tech Stack
