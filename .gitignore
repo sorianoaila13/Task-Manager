@@ -1,4 +1,6 @@
 # Miscellaneous
+.env*
+.metadata
 *.class
 *.log
 *.pyc
